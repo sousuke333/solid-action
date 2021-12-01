@@ -1,0 +1,47 @@
+/* header */
+header .site-header {
+    width: 100%;
+}
+
+.site-branding {
+    width: 100%;
+}
+
+h1 .site-title a {
+    width: 100%;
+}
+
+p .site-description {
+    width: 100%;
+}
+
+/* navigation */
+nav .main-navigation {
+    width: 100%;
+}
+button .menu-toggle {
+    width: 100%;
+}
+.menu {
+    width: 100%;
+}
+li .page-item a {
+    width: 100%;
+}
+li .page-item .page_item_has_children a {
+    width: 100%;
+}
+ul .children {
+    width: 100%;
+}
+ul .children li .page-item a {
+    width: 100%;
+}
+ul .children ul .children li .page-item a {
+    width: 100%;
+}
+
+/* main */
+main .site-main {
+    width: 100%;
+}

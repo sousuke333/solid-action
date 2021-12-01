@@ -1,0 +1,64 @@
+/* header */
+header {
+    background-color: black;
+}
+header .site-header {
+    width: 100%;
+    background-color: red;
+}
+
+.site-branding {
+    width: 100%;
+}
+
+/* h1  */
+a {
+    text-decoration: none;
+}
+.site-title a {
+    width: 100%;
+    color: red !important;
+}
+
+p .site-description {
+    width: 100%;
+}
+
+/* navigation */
+nav .main-navigation {
+    width: 100%;
+}
+
+button .menu-toggle {
+    width: 100%;
+}
+
+.menu {
+    width: 100%;
+}
+
+li .page-item a {
+    width: 100%;
+}
+
+li .page-item .page_item_has_children a {
+    width: 100%;
+}
+
+ul .children {
+    width: 100%;
+}
+
+ul .children li .page-item a {
+    width: 100%;
+}
+
+ul .children ul .children li .page-item a {
+    width: 100%;
+}
+
+/* main */
+main .site-main {
+    width: 100%;
+}
+/*# sourceMappingURL=style.css.map */

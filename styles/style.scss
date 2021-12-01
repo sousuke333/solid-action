@@ -1,0 +1,84 @@
+// @import 'modules/variables';
+// @import 'modules/mixin';
+// @import 'modules/appear';
+// @import 'modules/button';
+// @import 'modules/hero-slider';
+// @import 'modules/text-animation';
+// @import 'modules/image-slide';
+// @import 'modules/mobile-menu';
+
+// @import "breakpoints/base";
+
+// @media (min-width: 480px) {
+//   @import "breakpoints/480up";
+// }
+
+// @media (min-width: 600px) {
+//   @import "breakpoints/600up";
+// }
+
+// @media (min-width: 960px) {
+//   @import "breakpoints/960up";
+// }
+
+// @media (min-width: 1280px) {
+//   @import "breakpoints/1280up";
+// }
+
+// @media (min-resolution: 192dpi)
+//       ,(-webkit-min-device-pixel-ratio: 2) {
+//   @import "breakpoints/2x";
+// }
+
+// @media print {
+//   @import "breakpoints/print";
+// }
+
+/* header */
+header .site-header {
+    width: 100%;
+    background-color: red;
+}
+
+.site-branding {
+    width: 100%;
+}
+
+h1 .site-title a {
+    width: 100%;
+}
+
+p .site-description {
+    width: 100%;
+}
+
+/* navigation */
+nav .main-navigation {
+    width: 100%;
+}
+button .menu-toggle {
+    width: 100%;
+}
+.menu {
+    width: 100%;
+}
+li .page-item a {
+    width: 100%;
+}
+li .page-item .page_item_has_children a {
+    width: 100%;
+}
+ul .children {
+    width: 100%;
+}
+ul .children li .page-item a {
+    width: 100%;
+}
+ul .children ul .children li .page-item a {
+    width: 100%;
+}
+
+/* main */
+main .site-main {
+    width: 100%;
+}
